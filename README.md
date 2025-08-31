@@ -11,7 +11,7 @@
   </ul>
 
   <h2>⚡ Getting Started</h2>
-<p> Open harshdeep.framer.ai</p>
+ Portfolio: <a href="https://portfolio-harshdeep.vercel.app/">Harsh Deep</a><br>
 </code></pre>
 
   <h2>📬 Contact</h2>
